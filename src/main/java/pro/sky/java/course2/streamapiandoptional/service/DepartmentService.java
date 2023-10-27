@@ -1,15 +1,12 @@
 package pro.sky.java.course2.streamapiandoptional.service;
-
 import org.springframework.stereotype.Service;
-
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-
 @Service
-public class DepartmentService extends EmployeeServiceImpl {
-    private final EmployeeService employeeService;
+public class DepartmentService {
+    private EmployeeService employeeService;
     public DepartmentService(EmployeeService employeeService) {
         this.employeeService = employeeService;
     }
