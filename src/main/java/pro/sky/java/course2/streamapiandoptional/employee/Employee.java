@@ -1,4 +1,4 @@
-package pro.sky.java.course2.streamapiandoptional.service;
+package pro.sky.java.course2.streamapiandoptional.employee;
 
 import java.util.Objects;
 public class Employee {
