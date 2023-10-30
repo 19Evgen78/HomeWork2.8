@@ -1,6 +1,6 @@
 package pro.sky.java.course2.streamapiandoptional.service;
 
-import pro.sky.java.course2.streamapiandoptional.employee.Employee;
+import pro.sky.java.course2.streamapiandoptional.model.Employee;
 
 import java.util.List;
 import java.util.Map;

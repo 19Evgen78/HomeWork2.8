@@ -1,7 +1,7 @@
 package pro.sky.java.course2.streamapiandoptional.service;
 
 import org.springframework.stereotype.Service;
-import pro.sky.java.course2.streamapiandoptional.employee.Employee;
+import pro.sky.java.course2.streamapiandoptional.model.Employee;
 import pro.sky.java.course2.streamapiandoptional.exceptions.EmployeeNotFoundException;
 
 import javax.annotation.PostConstruct;
